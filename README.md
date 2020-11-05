@@ -36,11 +36,9 @@ _Want to know more [Click here](https://dattatray-dagale.github.io/)_
 ## Contact ☎️ 
 Let's be Friends.
 
-  <a href="https://www.linkedin.com/in/dattatray-dagale-962135181"><img align="left" alt="Dattatray Dagale| Linkedin" width="40px" 
-   "https://github.com/Dattatray-Dagale/Dattatray-Dagale/blob/main/images/social/linkedin.png" /></a>
+  <a href="https://www.linkedin.com/in/dattatray-dagale-962135181"><img align="left" alt="Dattatray Dagale| Linkedin" width="40px" "https://github.com/Dattatray-Dagale/Dattatray-Dagale/blob/main/images/social/linkedin.png" /></a>
  
-  <a href="https://github.com/Dattatray-Dagale"><img align="left" alt="Dattatray Dagale| GitHub" width="40px" 
-  src="https://github.com/Dattatray-Dagale/images/social/github.png" /></a>
+  <a href="https://github.com/Dattatray-Dagale"><img align="left" alt="Dattatray Dagale| GitHub" width="40px" src="https://github.com/Dattatray-Dagale/images/social/github.png" /></a>
   
    <a href="mailto:dattatraydagale98@gmail.com"><img align="left" alt="Dattatray Dagale| Email" width="40px" 
    "https://github.com/Dattatray-Dagale/blob/main/images/social/linkedin.png" /></a>
