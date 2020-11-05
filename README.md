@@ -1,7 +1,7 @@
 ### Hey 👋, How are you doing today...?
 -------
 
-- 🔭 I’m currently working on ... 👉  Student
+- 🔭 My current profession ... 👉  Student
 - 🌱 I’m currently learning ... 👉  Economics
 - 👯 I’m looking to collaborate on ... 👉  Maybe YouTube
 - 🤔 I’m looking for help with ... 👉  Coding
