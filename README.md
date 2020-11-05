@@ -26,7 +26,7 @@ _Want to know more [Click here](https://dattatray-dagale.github.io/)_
 
 - YT 📽 
 
-- There are many things that I want to do...... 🤹🤹🤹
+- There are many things that I want to do...... 🤹🤹
 
 ---
 
