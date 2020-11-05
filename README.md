@@ -30,6 +30,10 @@ _Want to know more [Click here](https://dattatray-dagale.github.io/)_
 
 ---
 
+## License 📑 
+
+MIT License - checkout the [LICENSE](./LICENSE) file for details
+
 ## Contact ☎️ 
 Let's be Friends.
 
@@ -47,6 +51,3 @@ Let's be Friends.
 <a href="https://www.instagram.com/dattatray_dagale/"><img align="left" alt="Dattatray Dagale| Twitter" width="40px" src="https://github.com/Dattatray-Dagale/Dattatray-Dagale/blob/main/images/social/insta.png" /></a>
 
 
-## License 📑 
-
-This project is licensed under the MIT License - checkout the [LICENSE](./LICENSE) file for details
