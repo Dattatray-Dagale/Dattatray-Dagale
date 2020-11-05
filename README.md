@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... fast_forward If you don't mind...joy
 -->
 # Hey there!  <img src="https://user-images.githubusercontent.com/34706326/87240698-80b8dc00-c439-11ea-886c-747fb2f74952.gif" align = left width="60" height="60"> 
+<img src="https://user-images.githubusercontent.com/34706326/87228193-1febbe00-c3bd-11ea-9e73-7b094fda02b2.png" align=right width="450" height="320">
 
 I am **Dattatray**, an undergraduate student at B.K Birla College, Kalyan doing major in Economics. \
 _Want to know more [Click here](https://dattatray-dagale.github.io/)_
@@ -36,13 +37,13 @@ _Want to know more [Click here](https://dattatray-dagale.github.io/)_
 Let's be Friends.
 
   <a href="https://www.linkedin.com/in/dattatray-dagale-962135181"><img align="left" alt="Dattatray Dagale| Linkedin" width="40px" 
-   src="https://github.com/Dattatray-Dagale/images/social/linkedin.png" /></a>
+   "https://github.com/Dattatray-Dagale/Dattatray-Dagale/blob/main/images/social/linkedin.png" /></a>
  
   <a href="https://github.com/Dattatray-Dagale"><img align="left" alt="Dattatray Dagale| GitHub" width="40px" 
   src="https://github.com/Dattatray-Dagale/images/social/github.png" /></a>
   
    <a href="mailto:dattatraydagale98@gmail.com"><img align="left" alt="Dattatray Dagale| Email" width="40px" 
-   src="https://github.com/Dattatray-Dagale/images/social/email.png" /></a>
+   "https://github.com/Dattatray-Dagale/blob/main/images/social/linkedin.png" /></a>
 
  
   <a href="https://www.facebook.com/DattatrayDagale1"><img align="left" alt="Dattatray Dagale| Facebook" width="40px" 
